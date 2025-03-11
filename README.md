@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Henry Xiao, and I'm thrilled to have been an IBMer since 2023! 
+
+Starting as an AI engineer, I've evolved into a Data and AI Technical Specialist. On this platform, I'd love to share some snippets of the exciting AI world, tutorials on interacting with and leveraging IBM technologies, and other fun shenanigans. 
+
+Cheers! 
