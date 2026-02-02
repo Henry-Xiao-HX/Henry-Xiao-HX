@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Henry Xiao, and I'm thrilled to have been an IBMer since 2023! 
+My name is Henry Xiao, and I’ve been part of IBM since 2023.
 
-Starting as an AI engineer, I've evolved into a Data and AI Technical Specialist. On this platform, I'd love to share some snippets of the exciting AI world, tutorials on interacting with and leveraging IBM technologies, and other fun shenanigans. 
+In my role, I focus on helping financial services organizations adopt and accelerate Data and AI solutions: from modernizing data architectures to implementing AI capabilities that drive operational efficiency, strengthen risk management, and support regulatory compliance.
 
-Cheers! 
+On this platform, I look forward to sharing insights from the evolving AI landscape, practical guidance on working with IBM’s Data and AI offerings, and learnings from real-world engagements across financial services.
