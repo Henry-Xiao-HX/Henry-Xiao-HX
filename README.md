@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Henry Xiao, and I’ve been part of IBM since 2023.
+My name is Henry Xiao, and I am an AI Customer Success Engineer at IBM.
 
 In my role, I focus on helping financial services organizations adopt and accelerate Data and AI solutions: from modernizing data architectures to implementing AI capabilities that drive operational efficiency, strengthen risk management, and support regulatory compliance.
 
